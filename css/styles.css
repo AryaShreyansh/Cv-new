@@ -1,0 +1,138 @@
+
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.pro{
+  text-decoration: underline ;
+}
+
+.profile{
+  color: #40514E;
+  line-height: 2;
+}
+.profilepic{
+  margin: 10px auto 25px auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+h1{
+
+  margin-top: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0px;
+  color: #256D85;
+  line-height: 2;
+}
+
+h2{
+  margin-top: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #256D85;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+  font-weight: bolder;
+ margin:  0px;
+
+}
+a{
+  color: #11999E;
+}
+
+
+.top{  padding-top: 120px;
+background-color: #F7ECDE;
+position: relative;
+margin-bottom: 30px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  margin-top: 20px;
+  margin-bottom: 50px;
+
+
+}
+
+
+.top-cloud{
+
+display: block;
+  position: absolute;
+left:950px;
+top:50px;
+}
+
+.DSA{
+
+width: 25%;
+float: left;
+margin-right:30px;
+
+}
+
+.webd{
+width: 25%;
+float: right;
+margin-left:  30px;
+}
+
+hr{
+  height: 0px;
+  border-width: 7px 0px 0px 0px;
+  border-style: dotted;
+  border-color: violet;
+  width: 3.5%;
+  margin: 100px auto 100px auto;
+
+}
+
+.contact-me{
+  line-height: 3;
+  margin-bottom: 0px;
+}
+
+.btn{
+  width: 40%;
+  font-size: 25px;
+  text-decoration: none;
+  background-color: #00ABB3;
+  color: white;
+  padding: 7px;
+  font-family: sans-serif;
+  border-radius: 12px;
+  margin-top:50px;
+
+}
+#para1{
+  font-size: 20px;
+}
+
+.bottom-container{
+  height: 110px;
+  background-color: #66BFBF;
+  margin-top: 70px;
+  text-align: center;
+  padding-top: 75px;
+}
+.footer-link{
+  text-decoration: none;
+  margin:auto 20px auto 20px;
+  color: #11999E;
+}
